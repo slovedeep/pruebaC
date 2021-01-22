@@ -23,6 +23,7 @@ void main(){
 	printf("**************************************\n"
 			"*******Bienvenid@ Al Ahorcado*********\n"
 			"**************************************\n");
+	printf("Probando!!!!!!!!!!!!");
 	fflush(stdout);
     do{
         printf("Por favor, escoge el nivel de dificultat\n"
